@@ -11,7 +11,7 @@ Author: Rufat Aghagasimov
 
 Coaches that are members of The Association of Modern Football Coaches (AMFC) have many good forwards. These forwards play critical roles in the success of their teams. But they do not score too many goals. So the radical fans in social media continue to bully these players. As a result the forwards are losing their confidence. 
 
-The purpose of this project is to study statistics of top forwards that have scored at least 50 goals for national teams in international football caps. The project will analyze the changes in dynamics of goal scoring over history and the number of goals scored by forwards that have played for different football Confederations.  These statistics give the measurable and objective parameters that help the AMFC members understand the full picture of goal scoring and help them to motivate their players or produce some changes. 
+The purpose of this project is to study statistics of top forwards that have scored at least 50 goals for national teams in international football caps. The project will analyze the changes in dynamics of goal scoring over history.  These statistics gives the measurable and objective parameters that help the AMFC members understand the full picture of goal scoring and help them to motivate their players or produce some changes. 
 
 ## Part 2. Problem
 
